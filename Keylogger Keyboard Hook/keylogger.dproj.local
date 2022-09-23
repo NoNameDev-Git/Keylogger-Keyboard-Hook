@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.961,C:\Users\Home\Desktop\KEYLOGGER\Keylogger.dproj=C:\Users\Home\Desktop\KEYLOGGER\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.594,C:\Users\Home\Desktop\KEYLOGGER\keylogger.dproj=C:\Users\Home\Desktop\KEYLOGGER\inst.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.026,C:\Users\Home\Desktop\KEYLOGGER\inst.dproj=C:\Users\Home\Desktop\KEYLOGGER\Keylogger.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,C:\Users\Home\Desktop\KEYLOGGER\Project1.dproj=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
